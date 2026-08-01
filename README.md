@@ -1,6 +1,6 @@
 # homepage
 
-A homepage for all my repositories.
+A homepage for all our repositories.
 
 ## Table of Contents
 
@@ -14,10 +14,15 @@ A homepage for all my repositories.
 
 | Name            | Description                                  | Type | Format   |
 |-----------------|----------------------------------------------|------|----------|
-| [`.github`](https://github.com/brandonhimpfen/.github)  | GitHub repo defaults.    |  |  |
+| [`.github`](https://github.com/travelbloggersweekly/.github)  | GitHub repo defaults.    |  |  |
+| [assets](https://github.com/travelbloggersweekly/assets)  | Asset files for the organization.    |  |  |
+| [automation](https://github.com/travelbloggersweekly/automation)  | Scripts for automation.    |  |  |
+| [static](https://github.com/travelbloggersweekly/static)  |     |  |  |
+| [support](https://github.com/travelbloggersweekly/support)  | Ways to support us.    |  |  |
+| [www](https://github.com/travelbloggersweekly/www)  | Website.    |  |  |
 
-A comprehensive list of all repositories may be found [here](https://github.com/brandonhimpfen?tab=repositories).
+A comprehensive list of all repositories may be found [here](https://github.com/travelbloggersweekly?tab=repositories).
 
 ## Repositories (Archived)
 
-A comprehensive list of repositories that have been archived may be found [here](https://github.com/brandonhimpfen?tab=repositories&q=&type=archived).
+A comprehensive list of repositories that have been archived may be found [here](https://github.com/travelbloggersweekly?tab=repositories&q=&type=archived).
